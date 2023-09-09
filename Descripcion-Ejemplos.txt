@@ -1,0 +1,10 @@
+Adapter: para este patron hice un conversor de codigo ASCII a texto para poder ejemplificarlo.
+
+Singleton: en este caso utilice el patron singleton para hacer una unica instancia de conexion a una base de datos.
+
+Observer: para ejemplimplificar este patron simule una app del clima, la cual manda notificaciones a los usuarios
+cada vez que hay un cambio en el clima (un 1 en un imput).
+
+Singleton y Observer juntos: en este ejemplo combinado utilice el singleton nuevamente para instanciar una unica
+conexión a base de datos y el patron observer para que notifique cada vez que haya cambios en una determinada tabla
+de esa base.
